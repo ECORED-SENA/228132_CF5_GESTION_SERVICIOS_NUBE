@@ -2,18 +2,99 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 2%
+    right: 19%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 64%
+    right: 82%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 68%
+    right: 13%  
 
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+
+
+.banner-interno__fondo
+  background: url('../assets/curso/portada/mini-portada.png') !important  
+  background-size: cover !important
+  background-repeat: no-repeat
+  background-position: center !important
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: $color-sistema-texto
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+
+.fondo-slider
+  background: url('../assets/curso/temas/t2/fondo-slider.png')
+  background-position: center 
+  background-size: 100% 100%
+  background-repeat: no-repeat
+.fondo-t1
+  background: url('../assets/curso/temas/t1/fondo.png')
+  background-position: center bottom
+  background-size: 100% 75%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem 
+.fondo-t2
+  background: url('../assets/curso/temas/t2/fondo.png')
+  background-position: center bottom
+  background-size: 100% 55%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem  
+
+.bg-1
+  background-color: #ECEDF5
+.bg-2
+  background-color: #FFF6DB
+.bg-3
+  background-color: #FFEDB7 !important
+.bg-4
+  background-color: #F6F6F6
+
+.b-table
+  border-right: 1px solid #FC9C25 !important
+  border-left:  1px solid #FC9C25 !important
+.br-10
+  border-radius: 10px !important
+.br-19
+  border-radius: 19px
+.bx-sh1
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.16)
+.mt-n3
+  margin-top: -3%  
+  
+  
+.slyder-a__bullets__item--active 
+  background-color: #F59D36
+  border-color: #F59D36
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F59D36
+.img-infografica.color-acento-botones .img-infografica__item__dot:before
+  border: 3px solid #001144
+.img-infografica__item
+  width: 3.5%
+.tema-4 .img-infografica__card
+  @media (min-width: 992px)
+    width: 400px
