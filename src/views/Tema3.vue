@@ -65,7 +65,7 @@
 
     .row.mb-4
       .col-lg-9.mb-2(data-aos="fade-right")
-        p En este modelo el proveedor se encarga de la infraestructura, sistemas operativos y plataformas tecnológicas que dan soporte a servicios de #[em software] que son expuestos para el consumo por parte de los usuarios. Ejemplos de este tipo de modelo de servicios son: Facebook, Google docs, Microsoft Office 365.
+        p En este modelo el proveedor se encarga de la infraestructura, sistemas operativos y plataformas tecnológicas que dan soporte a servicios de #[em software] que son expuestos para el consumo por parte de los usuarios. Ejemplos de este tipo de modelo de servicios son: Facebook, Google Docs, Microsoft Office 365.
       .col-lg-3.mb-2(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/img4.png', alt='')   
 

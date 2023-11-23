@@ -13,7 +13,7 @@
 
           .row.justify-content-center.mb-4
             .col-lg-7.pt-lg-5.mb-2(data-aos="fade-right")
-              p En el campo de la TI, el concepto de nube ya existía desde los años 90. Sin embargo, solo hasta el año 2006 fue cuando se popularizó el término, con la aparición del servicio EC2 de Amazon (Elastic Compute Cloud), el cual es un servicio web que se puede alquilar, pero con la característica que es escalable de acuerdo con las necesidades del usuario (AWS, 2021). Es decir, un servidor que se puede modificar en almacenamiento, poder de procesamiento, red, sistema operativo entre otras cosas.
+              p En el campo de la TI, el concepto de nube ya existía desde los años 90. Sin embargo, solo hasta el año 2006 fue cuando se popularizó el término, con la aparición del servicio EC2 de Amazon (Elastic Compute Cloud), el cual es un servicio web que se puede alquilar, pero con la característica que es escalable de acuerdo con las necesidades del usuario (AWS, 2021). Es decir, un servidor que se puede modificar en almacenamiento, poder de procesamiento, red, sistema operativo, entre otras cosas.
             .col-lg-5.col-8.mb-2(data-aos="fade-left")
               img(src='@/assets/curso/temas/t1/img.png', alt='')
 

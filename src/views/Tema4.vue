@@ -33,7 +33,7 @@
                 img(src="@/assets/curso/temas/t4/ico2.svg", alt="") 
               .col-lg-9
                 .h5.mb-2 Nube pública
-                p Una nube es pública cuando todo el conjunto de recursos de infraestructura de TI, ajena al usuario final, se despliega para el consumo como servicios a través de internet , independientemente de si los recursos son asignados o no a los usuarios de forma privada.  Algunos proveedores de este tipo de nubes son:
+                p Una nube es pública cuando todo el conjunto de recursos de infraestructura de TI, ajena al usuario final, se despliega para el consumo como servicios a través de internet, independientemente de si los recursos son asignados o no a los usuarios de forma privada.  Algunos proveedores de este tipo de nubes son:
                 p.mb-0 Amazon Web Services (AWS), Google Cloud, IBM Cloud y Microsoft Azure.
 
           .tarjeta.color-acento-botones.p-3(x="50%" y="56%")
