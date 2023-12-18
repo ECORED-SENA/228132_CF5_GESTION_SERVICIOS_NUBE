@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 Luego de haber revisado las generalidades de la estructura de <em>Cloud Computing</em>, el siguiente esquema retoma lo desarrollado en el componente.
+    p.mb-5 Luego de haber revisado las generalidades de la estructura de #[em Cloud Computing], el siguiente esquema retoma lo desarrollado en el componente.
 
     .row.justify-content-center
       .col-lg-12.mb-5

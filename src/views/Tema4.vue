@@ -42,7 +42,7 @@
                 img(src="@/assets/curso/temas/t4/ico3.svg", alt="") 
               .col-lg-9
                 .h5.mb-2 Nube híbrida
-                p.mb-0 Una nube es híbrida cuando combina servicios de proveedores de nubes públicas con servicios de nubes privadas, las cuales  generalmente están conectadas mediantes redes de área local (LAN), de área amplia (WAN), redes privadas virtuales (VPN) o API.
+                p.mb-0 Una nube es híbrida cuando combina servicios de proveedores de nubes públicas con servicios de nubes privadas, las cuales  generalmente están conectadas mediante redes de área local (LAN), de área amplia (WAN), redes privadas virtuales (VPN) o API.
         
 
 

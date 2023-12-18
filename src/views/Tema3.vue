@@ -43,7 +43,7 @@
 
     .row.mb-4
       .col-lg-9.mb-2(data-aos="fade-right")
-        p En esta categoría, el proveedor de servicios ofrece una plataforma como una solución integrada o servicio a través de Internet, según la lista para el consumo por parte del usuario. El proveedor se encarga de gestionar toda la infraestructura referente al #[em hardware] y al sistema operativo sobre el que se despliega la plataforma mientras el usuario solo es responsable de la administración y consumo de esta, logrando el desarrollo, ejecución y gestión de sus propias aplicaciones. Por lo anterior, es el modelo ideal para desarrolladores de #[em software] porque solo necesita un entorno para el desarrollo y ejecución del código sin necesidad de preocuparse de otros procesos. A continuación, se relaciona un ejemplo de PaaS es #[em Firebase]:
+        p En esta categoría, el proveedor de servicios ofrece una plataforma como una solución integrada o servicio a través de Internet, según la lista para el consumo por parte del usuario. El proveedor se encarga de gestionar toda la infraestructura referente al #[em hardware] y al sistema operativo sobre el que se despliega la plataforma, mientras el usuario solo es responsable de la administración y consumo de esta, logrando el desarrollo, ejecución y gestión de sus propias aplicaciones. Por lo anterior, es el modelo ideal para desarrolladores de #[em software] porque solo necesita un entorno para el desarrollo y ejecución del código sin necesidad de preocuparse de otros procesos. A continuación, se relaciona un ejemplo de PaaS es #[em Firebase]:
       .col-lg-3.mb-2(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/img3.png', alt='')   
 
@@ -65,7 +65,7 @@
 
     .row.mb-4
       .col-lg-9.mb-2(data-aos="fade-right")
-        p En este modelo el proveedor se encarga de la infraestructura, sistemas operativos y plataformas tecnológicas que dan soporte a servicios de #[em software] que son expuestos para el consumo por parte de los usuarios. Ejemplos de este tipo de modelo de servicios son: Facebook, Google Docs, Microsoft Office 365.
+        p En este modelo, el proveedor se encarga de la infraestructura, sistemas operativos y plataformas tecnológicas que dan soporte a servicios de #[em software] que son expuestos para el consumo por parte de los usuarios. Ejemplos de este tipo de modelo de servicios son: Facebook, Google Docs, Microsoft Office 365.
       .col-lg-3.mb-2(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/img4.png', alt='')   
 
@@ -88,7 +88,7 @@
     .row.mb-4
       .col-lg-7.mb-2(data-aos="fade-right")
         p La selección de los modelos de servicio depende finalmente de las necesidades de la empresa o de los profesionales encargados de la toma de decisiones respecto al proceso de aprovisionamiento de la infraestructura dentro de la organización. Sin embargo, se debe tener en cuenta que tanto los modelos PaaS y SaaS se montan sobre una IaaS.
-        p Según lo compartido en los puntos anteriores, la principal diferencia entre un modelo y otro viene determinada por la responsabilidad de los usuarios y proveedores sobre el proceso de mantenimiento y soporte, en segundo lugar están los aspectos de seguridad. En un modelo IaaS, el usuario es responsable de la seguridad de las aplicaciones instaladas mientras que en modelos SaaS y PaaS, la seguridad recae sobre el proveedor del servicio.
+        p Según lo compartido en los puntos anteriores, la principal diferencia entre un modelo y otro viene determinada por la responsabilidad de los usuarios y proveedores sobre el proceso de mantenimiento y soporte, en segundo lugar están los aspectos de seguridad. En un modelo IaaS, el usuario es responsable de la seguridad de las aplicaciones instaladas, mientras que en modelos SaaS y PaaS, la seguridad recae sobre el proveedor del servicio.
         h5 En la tabla 1 se comparte  un ejemplo de los posibles tipos de roles involucrados con cada una de las modelos y algunos ejemplos de aplicaciones. 
       .col-lg-5.mb-2(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/img5.png', alt='') 

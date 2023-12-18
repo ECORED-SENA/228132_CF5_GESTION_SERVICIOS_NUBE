@@ -20,7 +20,7 @@
               .row.justify-content-evenly.align-items-center
                 .col-md-6.mb-4.mb-md-0
                   h2 Servicios de almacenamiento
-                  p Este tipo de servicios buscan garantizar la disponibilidad de la información en cualquier momento, pues va más allá de brindar grandes cantidades de almacenamiento. Establecen mecanismo como, por ejemplo, la replicación en diferentes ubicaciones geográficas, de forma que se pueda trabajar y acceder a los datos, incluso en escenarios complejos dando gran tolerancia a fallos.
+                  p Este tipo de servicios buscan garantizar la disponibilidad de la información en cualquier momento, pues va más allá de brindar grandes cantidades de almacenamiento. Establecen mecanismo como, por ejemplo, la replicación en diferentes ubicaciones geográficas, de forma que se pueda trabajar y acceder a los datos, incluso en escenarios complejos, dando gran tolerancia a fallos.
                 .col-md-3
                   img(src="@/assets/curso/temas/t2/slider-img1.png", alt="")
               
